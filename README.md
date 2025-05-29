@@ -39,12 +39,13 @@ Each project is independent and demonstrates specific skills or concepts in the 
 
 ## 📂 Projects
 
-| Project Name | Description |
-|:------------:|:-----------:|
-| **bloodflow-visualizer-connect** | A visualization app for blood flow connections |
-| **[Project Name]** | [Short description, e.g., Testing React Router v6 features] |
-| **[Project Name]** | [Short description, e.g., First experiments with Redux Toolkit] |
-| **[Project Name]** | [Short description, e.g., Building a drag-and-drop dashboard] |
+| Project Name | Description | Demo |
+|:------------:|:-----------:|:----:|
+| **bloodflow-visualizer-connect** | A visualization app for blood flow connections | ![Demo](https://your-image-url.com/demo1.png) |
+| **react-router-test** | Testing React Router v6 features | ![Demo](https://your-image-url.com/demo2.png) |
+| **redux-toolkit-demo** | First experiments with Redux Toolkit | ![Demo](https://your-image-url.com/demo3.png) |
+| **dashboard-dnd** | Building a drag-and-drop dashboard | ![Demo](https://your-image-url.com/demo4.png) |
+
 
 > ✏️ *Update this list as you add more projects!*
 
